@@ -46,7 +46,11 @@
 &nbsp;
 <br>
 <br>
-
+<div align="center">
+<br>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{akashhansda}/count.svg" /></p> 
+<br>
+</div>
 <p align="right">
     <a href="https://akashhansda.github.io/" alt="portfolio">
         <img src="https://img.shields.io/badge/Portfolio-akashhansda-brightgreen.svg" />
