@@ -61,9 +61,6 @@
     <a href="https://t.me/akashhansda" alt="Telegram">
         <img src="https://img.shields.io/badge/-akashhansda-blue?style=social&logo=Telegram&logoColor=blue" />
     </a>&emsp;
-    <a href="https://www.paypal.com/paypalme/" alt="PayPal">
-        <img src="https://img.shields.io/badge/-akashhansda-blue?style=social&logo=PayPal&logoColor=blue" />
-    </a>&emsp;
 </p>
 
 <!--
