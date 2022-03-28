@@ -1,7 +1,7 @@
 ```
 ---a-k-a-s-h-h-a-n-s-d-a---
 ```
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=06FF00&width=440&lines=Welcome+to+akashhansda+GitHub+profile.;Hi,+I'+m+akashhansda;I'+m+interested+in+Coding+and+Web+Development;I'+m+currently+learning+Machine+Learning;I'+m+looking+to+collaborate+on+GitHub+and+more+.+.+.;How+to+reach+me+@akashhansda.;Research+is+our+priority.;Thanks+for+reading.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=06FF00&width=440&lines=Welcome+to+akashhansda+GitHub+profile.;Hi,+I'+m+akashhansda;I'+m+an+Open+Source+Code+Explorer+and+Enthusiast+and+Web+Development;I'+m+currently+learning+Machine+Learning;I'+m+looking+to+collaborate+on+GitHub+and+more+.+.+.;How+to+reach+me+@akashhansda.;Research+is+our+priority.;Thanks+for+reading.)](https://git.io/typing-svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donnemartin&layout=compact&theme=github_dark&hide=php,javascript,css,tsql,html,scss,makefile,shell,dockerfile)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=akashhansda&show_icons=true&icon_color=06FF00&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
