@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://avatars.githubusercontent.com/u/1342004?s=200&v=4" alt="logo"></img>
+</div>
+<br>
+
 ```
 ---a-k-a-s-h-h-a-n-s-d-a---
 ```
@@ -77,4 +82,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h6 color="9AB3F5" align="center">Last modified: Sat Mar 26 08:05:07 IST 2022</h6>
+<h6 color="9AB3F5" align="center">Last modified: Thu Mar 31 14:28:56 IST 2022</h6>
