@@ -110,6 +110,10 @@
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/devto.svg"
   /></a>
 &nbsp;
+<br><br>
+
+![](https://github.com/akashhansda/akashhansda/blob/main/pong.gif)
+
 <br>
 <br>
 <div align="center">
