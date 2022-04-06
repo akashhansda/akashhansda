@@ -23,6 +23,62 @@
 
 [![GitHub: akashhansda](https://img.shields.io/github/followers/akashhansda?label=follow%20github&color=brightgreen)](https://github.com/akashhansda)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/akashhansda" target="blank" title="Follow me on ">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="akashhansda" height="30" width="40" />
+</a>&nbsp;
+<a href="https://dev.to/akashhansda" target="blank" title="Follow me on ">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="akashhansda" height="30" width="40" />
+</a>&nbsp;
+<a href="https://twitter.com/abhisek" target="blank" title="Follow me on ">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abhisek" height="30" width="40" />
+</a>&nbsp;
+<a href="https://linkedin.com/in/akashhansda" target="blank" title="Follow me on ">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akashhansda" height="30" width="40" />
+</a>&nbsp;
+<a href="https://codesandbox.com/akashhansda" target="blank" title="Follow me on ">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="akashhansda" height="30" width="40" />
+</a>&nbsp;
+<a href="https://kaggle.com/akashhansda" target="blank" title="Follow me on ">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="akashhansda" height="30" width="40" />
+</a>&nbsp;
+<a href="https://fb.com/akashhansda" target="blank" title="Follow me on ">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akashhansda" height="30" width="40" />
+</a>&nbsp;
+<a href="https://instagram.com/akashhansda" target="blank" title="Follow me on ">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akashhansda" height="30" width="40" />
+</a>&nbsp;
+<a href="https://dribbble.com/akashhansda" target="blank" title="Follow me on ">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="akashhansda" height="30" width="40" />
+</a>&nbsp;
+<a href="https://medium.com/@akashhansda" target="blank" title="Follow me on ">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@akashhansda" height="30" width="40" />
+</a>&nbsp;
+<a href="https://www.youtube.com/c/akashhansda" target="blank" title="Follow me on ">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="akashhansda" height="30" width="40" />
+</a>&nbsp;
+<a href="https://www.codechef.com/users/akashhansda" target="blank" title="Follow me on ">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akashhansda" height="30" width="40" />
+</a>&nbsp;
+<a href="https://www.hackerrank.com/akashhansda" target="blank" title="Follow me on ">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="akashhansda" height="30" width="40" />
+</a>&nbsp;
+<a href="https://codeforces.com/profile/akashhansda" target="blank" title="Follow me on ">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="akashhansda" height="30" width="40" />
+</a>&nbsp;
+<a href="https://www.leetcode.com/akashhansda" target="blank" title="Follow me on ">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akashhansda" height="30" width="40" />
+</a>&nbsp;
+<a href="https://www.hackerearth.com/@akashhansda" target="blank" title="Follow me on ">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@akashhansda" height="30" width="40" />
+</a>&nbsp;
+<a href="https://www.topcoder.com/members/akashhansda" target="blank" title="Follow me on ">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="akashhansda" height="30" width="40" />
+</a>
+</p>
+
+
 ### Getting in touch
 <a href="https://twitter.com/" title="Follow me on Twitter">
   <img
